@@ -1,11 +1,9 @@
 <!-- ==================== HEADER ==================== -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Ageng+Praba+%F0%9F%91%8B;Backend+Developer+%F0%9F%92%BB;Fullstack+Developer+%E2%9A%A1;Turning+Coffee+into+Code+%E2%98%95;Debugging+is+my+Cardio+%F0%9F%98%82" alt="Typing SVG" />
-</p>
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=130&section=header&text=Think%20%20Code%20%20Debug%20%20Repeat&fontSize=25&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Ageng+Praba+%F0%9F%91%8B;Backend+Developer+%F0%9F%92%BB;Fullstack+Developer+%E2%9A%A1;Turning+Coffee+into+Code+%E2%98%95;Debugging+is+my+Cardio+%F0%9F%98%82" alt="Typing SVG" />
 </p>
 
 <!-- ==================== ABOUT ==================== -->
