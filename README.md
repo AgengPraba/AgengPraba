@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Ageng....;Nice+to+meet+you!&center=true&size=30">
 </h1>
-<p>🏫 I'm currently studying at Jenderal Soedirman University, Department of Informatics<br>
+<p>🏫 I'm currently working as programmer at RSUD Tidar<br>
   💻 I love writing code and learn anythings about it<br>
   📚 I’m currently learning about MERN stack and machine learning
 </p>
